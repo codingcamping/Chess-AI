@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster AI Chess",
+  "description": "A feature-rich chess application featuring a powerful Gemini-powered analysis engine, customizable themes, and a responsive interface for players of all levels.",
+  "requestFramePermissions": []
+}
